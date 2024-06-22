@@ -6,16 +6,15 @@ This project showcases an advanced chatbot system built with Flask, Pinecone, RA
 
 The response generated with our model using Langchain, OpenAI, RAG
 
-![image](https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents/assets/84759422/c32cbcd2-74c8-4e8f-be9f-78c6fb518f69)
+<img src="https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents/assets/84759422/c32cbcd2-74c8-4e8f-be9f-78c6fb518f69" alt="Chat Memory Example" width="400">
 
-Able to catch the memory, as I have not specified the drugs for which disease, able to comprehend chat history
+Able to catch the memory, as I have not specified the drugs for which disease, competent to comprehend chat history.
 
-![image](https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents/assets/84759422/15465ed2-fee0-467d-bd3e-136231a3d29b)
+<img src="https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents/assets/84759422/15465ed2-fee0-467d-bd3e-136231a3d29b" alt="Web Search Example" width="400">
 
-If chatbot is unable to find the response from the given data, our Serp-API agents come into play and give you the web search results
+If the chatbot cannot find the response from the given data, our Serp-API agents come into play and give you the web search results.
 
-![image](https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents/assets/84759422/553e6f54-fa2c-43b4-b519-10b6964ff33a)
-
+<img src="https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents/assets/84759422/553e6f54-fa2c-43b4-b519-10b6964ff33a" alt="Reduced Image Size Example" width="400">
 
 ## Features
 
