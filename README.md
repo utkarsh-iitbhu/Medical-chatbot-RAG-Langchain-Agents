@@ -4,6 +4,19 @@
 
 This project showcases an advanced chatbot system built with Flask, Pinecone, RAG(Retrieval-Augmented Generation) and Langchain. It leverages OpenAI embeddings for semantic understanding and integrates a retrieval-based chat system with agents and memory capabilities to handle complex conversations and follow-up questions. The system is designed to retrieve relevant information from a Pinecone vector store and utilize SerpAPI for fetching web search results when necessary.
 
+The response generated with our model using Langchain, OpenAI, RAG
+
+![image](https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents/assets/84759422/c32cbcd2-74c8-4e8f-be9f-78c6fb518f69)
+
+Able to catch the memory, as I have not specified the drugs for which disease, able to comprehend chat history
+
+![image](https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents/assets/84759422/15465ed2-fee0-467d-bd3e-136231a3d29b)
+
+If chatbot is unable to find the response from the given data, our Serp-API agents come into play and give you the web search results
+
+![image](https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents/assets/84759422/553e6f54-fa2c-43b4-b519-10b6964ff33a)
+
+
 ## Features
 
 - **Conversational AI**: Harnesses the power of `RAG` alongside `Langchain` and `OpenAI's LLM` to craft nuanced and contextually relevant responses, generating coherent and context-aware responses.
