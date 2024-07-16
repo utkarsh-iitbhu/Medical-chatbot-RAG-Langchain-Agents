@@ -66,7 +66,7 @@ PyPDF2==3.0.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
-pywin32==306
+pywin32==306  # Note: This might cause issues on non-Windows environments
 PyYAML==6.0.1
 pyzmq==26.0.3
 regex==2024.5.15
