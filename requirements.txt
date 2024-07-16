@@ -71,8 +71,7 @@ PyYAML==6.0.1
 pyzmq==26.0.3
 regex==2024.5.15
 requests==2.32.3
-# Editable install with no version control (sahu-medical-chatbot==0.0.1)
-# -e .
+-e git+https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents.git@7ac241a30898b556f1972c3a4aa5f81c8e2c34b2#egg=sahu_medical_chatbot
 serpapi==0.1.5
 six==1.16.0
 sniffio==1.3.1
