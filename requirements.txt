@@ -66,14 +66,13 @@ PyPDF2==3.0.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
-pywin32==306  # Note: This might cause issues on non-Windows environments
+pywin32==306
 PyYAML==6.0.1
 pyzmq==26.0.3
 regex==2024.5.15
 requests==2.32.3
 -e git+https://github.com/utkarsh-iitbhu/Medical-chatbot-RAG-Langchain-Agents.git@7ac241a30898b556f1972c3a4aa5f81c8e2c34b2#egg=sahu_medical_chatbot
 serpapi==0.1.5
-setuptools==58.1.0
 six==1.16.0
 sniffio==1.3.1
 SQLAlchemy==2.0.31
